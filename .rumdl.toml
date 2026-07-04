@@ -1,0 +1,28 @@
+[global]
+# MD013 (line length)
+# MD026 (trailing punctuation)
+disable = ["MD013", "MD026"]
+
+# Heading style
+[MD003]
+style = "atx"
+
+# Unordered list style
+[MD004]
+style = "dash"
+
+# Ordered list prefix
+[MD029]
+style = "ordered"
+
+# Horizontal rule style
+[MD035]
+style = "---"
+
+# Emphasis style
+[MD049]
+style = "asterisk"
+
+# Strong style
+[MD050]
+style = "asterisk"
